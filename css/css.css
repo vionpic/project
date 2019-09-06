@@ -65,6 +65,9 @@ button{
     .ac{
         text-align: center;
     }
+    .button{
+        width: 100%;
+    }
 }
 .best{
     position: relative;
